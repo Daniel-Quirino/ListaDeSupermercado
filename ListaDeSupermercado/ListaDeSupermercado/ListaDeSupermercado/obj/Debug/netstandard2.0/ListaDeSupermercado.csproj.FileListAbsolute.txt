@@ -1,0 +1,6 @@
+C:\Users\Daniel\Desktop\Xamarin\ListaDeSupermercado\ListaDeSupermercado\ListaDeSupermercado\bin\Debug\netstandard2.0\ListaDeSupermercado.deps.json
+C:\Users\Daniel\Desktop\Xamarin\ListaDeSupermercado\ListaDeSupermercado\ListaDeSupermercado\bin\Debug\netstandard2.0\ListaDeSupermercado.dll
+C:\Users\Daniel\Desktop\Xamarin\ListaDeSupermercado\ListaDeSupermercado\ListaDeSupermercado\obj\Debug\netstandard2.0\ListaDeSupermercado.csprojAssemblyReference.cache
+C:\Users\Daniel\Desktop\Xamarin\ListaDeSupermercado\ListaDeSupermercado\ListaDeSupermercado\obj\Debug\netstandard2.0\ListaDeSupermercado.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Desktop\Xamarin\ListaDeSupermercado\ListaDeSupermercado\ListaDeSupermercado\obj\Debug\netstandard2.0\ListaDeSupermercado.AssemblyInfoInputs.cache
+C:\Users\Daniel\Desktop\Xamarin\ListaDeSupermercado\ListaDeSupermercado\ListaDeSupermercado\obj\Debug\netstandard2.0\ListaDeSupermercado.AssemblyInfo.cs
